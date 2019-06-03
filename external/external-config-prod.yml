@@ -1,0 +1,30 @@
+external-risk:
+  baiduRockAddressUrl : https://jrws.baidu.com/risk/api/info/check/address?
+  baiduRockSearchUrl : https://jrws.baidu.com/risk/api/info/search?
+  bairongStrategyId : STR0002136
+  geoTokenUrl : /civp/getview/api/o/login?
+  geoQueryUrl : /civp/getview/api/u/queryUnify
+  geoFileUrl : /ofiles/openapi/jiao/
+  fiveDFileUrl : /ofiles/openapi/wuwei/
+  shenyueFileUrl : /ofiles/openapi/shenyue/
+  tencentAntiFraud : AntiFraud
+  tencentGz : gz
+  
+tongdun:
+  portrait:
+    partnerCode: xianhuahua_in
+    partnerKey: 24314fbcd4ce49f3a8b215d065d4fc43
+    taskUrl: https://talosapi.shujumohe.com/octopus/task.unify.create/v3
+    uploadUrl: https://talosapi.shujumohe.com/octopus/ai.task.upload/v3
+    queryUrl: https://talosapi.shujumohe.com/octopus/task.unify.query/v3
+    channelType: AI
+    channelCode: 108003
+    appName: ocash_and
+  loan:
+    partnerCode: xianhuahua_in
+    partnerKey: 24314fbcd4ce49f3a8b215d065d4fc43
+    appName: ocash_and
+    bizCode:
+        register: zcsjand
+        loan: dqshand
+    gjxdUrl: https://api.tongdun.net/aurora/apply/v1
