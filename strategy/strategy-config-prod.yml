@@ -31,7 +31,7 @@ cloudplatform:
 strategyone:
   address: http://13.235.36.241:8093
   path: /strategyone/ws/S1Public?wsdl
-
+  processCode: OCASH1
 tasktime:
   creditRatingTime: 0 */2 * * * ?
   checkResourceTaskCron: 0 */2 * * * ?
