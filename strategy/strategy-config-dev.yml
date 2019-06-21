@@ -31,6 +31,7 @@ cloudplatform:
 strategyone:
   address: http://47.95.140.218:8085
   path: /strategyone/ws/S1Public?wsdl
+  processCode: STRATEGY_JJ1
 
 tasktime:
   creditRatingTime: 0 */2 * * * ?
