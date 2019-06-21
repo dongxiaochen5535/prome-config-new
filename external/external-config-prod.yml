@@ -18,7 +18,7 @@ tongdun:
     uploadUrl: https://talosapi.shujumohe.com/octopus/ai.task.upload/v3
     queryUrl: https://talosapi.shujumohe.com/octopus/task.unify.query/v3
     channelType: AI
-    channelCode: 108003
+    channelCode: 608003
     appName: ocash_and
   loan:
     partnerCode: xianhuahua_in
