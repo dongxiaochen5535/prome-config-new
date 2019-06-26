@@ -28,4 +28,7 @@ tongdun:
         register: zcshand
         loan: dqshand
     gjxdUrl: https://apitest.tongdun.net/aurora/apply/v1
- 
+#advanceguardian
+image_path: /data/img
+advance_api_key: b4f9a618695905c0
+advance_face_comparison_url: https://in-api.advance.ai/in/openapi/face-identity/v1/face-comparison
