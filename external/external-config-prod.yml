@@ -30,5 +30,5 @@ tongdun:
     gjxdUrl: https://api.tongdun.net/aurora/apply/v1
 #advanceguardian
 image_path: /data/img
-advance_api_key: b4f9a618695905c0
+advance_api_key: b8a0a79698bcb280
 advance_face_comparison_url: https://in-api.advance.ai/in/openapi/face-identity/v1/face-comparison
