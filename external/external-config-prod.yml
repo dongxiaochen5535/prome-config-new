@@ -32,3 +32,7 @@ tongdun:
 image_path: /data/img
 advance_api_key: b8a0a79698bcb280
 advance_face_comparison_url: https://in-api.advance.ai/in/openapi/face-identity/v1/face-comparison
+#accuauth
+accauth_api_id: e62e8e86340c490d86ca199fcadefd9b
+accauth_api_secret: c56edff6a09c414fac939814a63ec4a2
+accauth_face_comparison_url: https://cloudapi.accuauth.com/face/v2/verify
